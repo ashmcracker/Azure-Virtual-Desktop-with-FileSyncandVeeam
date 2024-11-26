@@ -1,4 +1,10 @@
-### Azure 提供者：使用 Azure CLI 进行身份验证
+## 架构图
+![架构图](./Overall%20architecture.jpg)
+
+
+
+
+## Azure 提供者：使用 Azure CLI 进行身份验证
 
 参考文档 ：https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/azure_cli
 
